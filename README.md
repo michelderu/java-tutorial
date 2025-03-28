@@ -1,4 +1,4 @@
-# Simple Java turorial
+# Simple Java tutorial
 This Java tutorial is a quick introduction for beginners. It is designed to run on Github Codespaces to make things easy!
 
 ## HelloWorld
